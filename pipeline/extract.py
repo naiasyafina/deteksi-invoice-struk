@@ -77,8 +77,22 @@ def find_store(lines: list[str]) -> str | None:
     return None
 
 
+def find_items(lines: list[str]) -> list[dict]:
+    # ponytail: baris berangka sebelum subtotal/total dianggap item; item multi-baris dan diskon per item tidak ditangani
+    items = []
+    for line in lines:
+        if SUBTOTAL.search(line) or TOTAL.search(line) or TAX.search(line):
+            break
+        price = amount(line)
+        name = " ".join(word for word in line.split() if re.search(r"[a-z]", word, re.I) and word.lower() not in {"x", "@", "rp"})
+        if price and price >= 100 and len(name) >= 2 and not NOT_STORE.search(line):
+            items.append({"name": name, "price": price})
+    return items
+
+
 def extract_regex(lines: list[str]) -> dict:
     return {
+        "items": find_items(lines),
         "store_name": find_store(lines),
         "date": find_date(lines),
         "subtotal": find_labeled(lines, SUBTOTAL),
@@ -102,6 +116,7 @@ if __name__ == "__main__":
         "Kembali 11.500",
     ]
     assert extract_regex(receipt) == {
+        "items": [{"name": "Es Teh", "price": 10000}, {"name": "Nasi Goreng", "price": 25000}],
         "store_name": "WARUNG BU SRI",
         "date": "2026-11-03",
         "subtotal": 35000,

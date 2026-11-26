@@ -1,1 +1,0 @@
-image_id,seconds,total_match,items_gt,items_pred,price_f1,name_f1,self_consistent,error,ocr_seconds,cpu_seconds,cpu_percent,peak_ram_mb,word_recall

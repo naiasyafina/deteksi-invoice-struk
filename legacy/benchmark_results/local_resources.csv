@@ -1,8 +1,0 @@
-method,engine,threads,load_seconds,warmup_seconds,median_ocr_seconds,max_ocr_seconds,median_cpu_percent,peak_ram_mb,word_recall
-local-medium-1c,onnxruntime,1.0,0.85,2.75,,,,,
-local-medium-2c,onnxruntime,2.0,0.81,2.14,2.37,2.65,198.0,1175.5,0.916
-local-medium,onnxruntime,,0.79,2.06,2.6,16.33,824.0,4979.8,0.908
-local-small,onnxruntime,,0.83,0.43,0.345,2.65,946.5,2209.6,0.852
-local-tiny-1c,onnxruntime,1.0,0.77,0.19,0.265,2.62,99.0,1686.8,0.773
-local-tiny-2c,onnxruntime,2.0,0.43,0.18,,,,,
-local-tiny,onnxruntime,,0.68,0.21,0.175,1.95,831.0,1685.5,0.767

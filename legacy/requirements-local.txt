@@ -1,3 +1,0 @@
--r requirements-benchmark.txt
-onnxruntime>=1.20
-psutil>=5.9

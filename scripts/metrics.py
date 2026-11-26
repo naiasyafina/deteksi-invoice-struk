@@ -94,6 +94,28 @@ def cord_fields(raw_ground_truth: str) -> dict[str, int | None]:
     }
 
 
+def cord_items(raw_ground_truth: str) -> list[dict]:
+    items = []
+    for entry in as_list(json.loads(raw_ground_truth)["gt_parse"].get("menu")):
+        name = " ".join(map(str, as_list(entry.get("nm"))))
+        price = parse_money(" ".join(map(str, as_list(entry.get("price")))))
+        if name or price:
+            items.append({"name": name, "price": abs(price) if price else None})
+    return items
+
+
+def item_f1(predicted: list[dict], expected: list[dict], threshold: float = 0.8) -> float:
+    remaining = list(expected)
+    matched = 0
+    for item in predicted:
+        for candidate in remaining:
+            if item["price"] == candidate["price"] and similarity(normalize(item["name"]), normalize(candidate["name"])) >= threshold:
+                remaining.remove(candidate)
+                matched += 1
+                break
+    return f1(matched, len(predicted), len(expected))
+
+
 def word_recall(expected_words: list[str], texts: list[str]) -> float | None:
     expected = Counter(word for word in map(normalize, expected_words) if word)
     found = Counter(word for text in texts for word in map(normalize, text.split()) if word)
@@ -120,4 +142,8 @@ if __name__ == "__main__":
     })
     assert cord_lines(raw) == ["Teh", "TOTAL 38.500"]
     assert cord_fields(raw) == {"subtotal": 35000, "tax": 3500, "total": 38500}
+    menu = json.dumps({"gt_parse": {"menu": [{"nm": "Es Teh", "price": "10,000"}, {"nm": "Nasi"}]}})
+    assert cord_items(menu) == [{"name": "Es Teh", "price": 10000}, {"name": "Nasi", "price": None}]
+    expected_items = [{"name": "ES TEH", "price": 10000}, {"name": "Nasi Goreng", "price": 25000}]
+    assert item_f1([{"name": "es teh", "price": 10000}, {"name": "Nasi Goreng", "price": 2500}], expected_items) == 0.5
     print("ok")
