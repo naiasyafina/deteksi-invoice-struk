@@ -1,0 +1,51 @@
+{
+  "local-tiny": {
+    "engine": "onnxruntime",
+    "threads": null,
+    "load_seconds": 0.68,
+    "warmup_seconds": 0.21,
+    "ram_after_warmup_mb": 489.8
+  },
+  "local-small": {
+    "engine": "onnxruntime",
+    "threads": null,
+    "load_seconds": 0.83,
+    "warmup_seconds": 0.43,
+    "ram_after_warmup_mb": 620.0
+  },
+  "local-medium": {
+    "engine": "onnxruntime",
+    "threads": null,
+    "load_seconds": 0.79,
+    "warmup_seconds": 2.06,
+    "ram_after_warmup_mb": 829.7
+  },
+  "local-tiny-1c": {
+    "engine": "onnxruntime",
+    "threads": 1,
+    "load_seconds": 0.77,
+    "warmup_seconds": 0.19,
+    "ram_after_warmup_mb": 430.6
+  },
+  "local-tiny-2c": {
+    "engine": "onnxruntime",
+    "threads": 2,
+    "load_seconds": 0.43,
+    "warmup_seconds": 0.18,
+    "ram_after_warmup_mb": 437.9
+  },
+  "local-medium-1c": {
+    "engine": "onnxruntime",
+    "threads": 1,
+    "load_seconds": 0.85,
+    "warmup_seconds": 2.75,
+    "ram_after_warmup_mb": 771.2
+  },
+  "local-medium-2c": {
+    "engine": "onnxruntime",
+    "threads": 2,
+    "load_seconds": 0.81,
+    "warmup_seconds": 2.14,
+    "ram_after_warmup_mb": 774.2
+  }
+}

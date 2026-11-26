@@ -1,0 +1,10 @@
+method,receipts,failed,total_accuracy,item_price_f1,item_name_f1,self_consistent,median_seconds,max_seconds
+gemini,20,0,1.0,0.87,0.87,0.9,6.775,137.42
+local-medium-1c,0,0,,,,,,
+local-medium-2c,2,0,1.0,1.0,0.5,0.5,19.485,35.96
+local-medium,20,0,1.0,0.87,0.762,0.85,4.445,39.92
+local-small,20,0,0.947,0.795,0.762,0.9,3.49,202.9
+local-tiny-1c,10,0,1.0,0.85,0.683,0.8,11.325,107.13
+local-tiny-2c,0,0,,,,,,
+local-tiny,20,0,1.0,0.829,0.712,0.8,2.195,177.07
+paddle,20,0,1.0,0.866,0.758,0.9,19.355,117.44

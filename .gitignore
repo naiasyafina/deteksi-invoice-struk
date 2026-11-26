@@ -1,0 +1,12 @@
+.env
+.venv/
+.venv-legacy/
+__pycache__/
+*.db
+*.zip
+models/*
+!models/.gitkeep
+data/*/*
+!data/*/.gitkeep
+!data/*/README.md
+!data/synthetic/examples/

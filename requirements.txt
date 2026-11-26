@@ -1,0 +1,7 @@
+rapidocr_onnxruntime
+onnxruntime
+numpy
+pillow
+psutil
+pandas
+datasets
