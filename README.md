@@ -23,6 +23,7 @@ Torch dipasang versi CPU lewat index PyTorch yang ada di `requirements.txt`.
 ```
 
 Alurnya:
+
 1. Upload satu atau beberapa foto.
 2. DiT mendeteksi jenisnya secara lokal: struk atau invoice. Label cek bank dari model diabaikan.
 3. Hasil deteksi langsung dipakai dan tidak bisa diganti. Kalau keyakinan di bawah 60%, muncul peringatan.
@@ -71,14 +72,14 @@ Hasil mentah per gambar disimpan di `results/<tugas>-<model>.csv`, dan metadata 
 
 ## Struktur
 
-| Path | Isi |
-|---|---|
-| `pipeline/` | preprocess (resize/crop/deskew), OCR, ekstraksi regex (total, tanggal, toko, item) |
-| `scripts/prepare_data.py` | menyiapkan data uji |
-| `scripts/bench_classify.py`, `bench_extract.py` | benchmark |
-| `scripts/metrics.py`, `profiling.py`, `samples.py` | metrik, pengukuran resource (psutil), loader data |
-| `scripts/eval_ocr.py` | benchmark OCR Fase 1 (hasilnya di `reports/`) |
-| `data/`, `results/` | tidak masuk git, kecuali `SOURCES.md` dan `SUMMARY.md` |
+| Path                                                     | Isi                                                                                |
+| -------------------------------------------------------- | ---------------------------------------------------------------------------------- |
+| `pipeline/`                                            | preprocess (resize/crop/deskew), OCR, ekstraksi regex (total, tanggal, toko, item) |
+| `scripts/prepare_data.py`                              | menyiapkan data uji                                                                |
+| `scripts/bench_classify.py`, `bench_extract.py`      | benchmark                                                                          |
+| `scripts/metrics.py`, `profiling.py`, `samples.py` | metrik, pengukuran resource (psutil), loader data                                  |
+| `scripts/eval_ocr.py`                                  | benchmark OCR Fase 1 (hasilnya di `reports/`)                                    |
+| `data/`, `results/`                                  | tidak masuk git, kecuali `SOURCES.md` dan `SUMMARY.md`                         |
 
 ## Cek cepat
 

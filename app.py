@@ -62,7 +62,10 @@ if st.button(f"Digitalisasi {len(pending)} dokumen", type="primary", disabled=no
         try:
             results[file.file_id] = {"file": file.name, "jenis": jenis, "data": extract(client, file.getvalue(), file.type, jenis)}
         except Exception as error:  # noqa: BLE001
-            st.error(f"{file.name} gagal dibaca: {error}")
+            if any(code in str(error) for code in ("503", "UNAVAILABLE", "429", "RESOURCE_EXHAUSTED")):
+                st.error(f"{file.name}: server Gemini sedang sibuk atau kuota habis. Tunggu sebentar lalu klik Digitalisasi lagi.")
+            else:
+                st.error(f"{file.name} gagal dibaca: {error}")
         progress.progress(i / len(pending), text=f"{i}/{len(pending)} dokumen")
 
 documents = [results[file.file_id] for file in files if file.file_id in results]
