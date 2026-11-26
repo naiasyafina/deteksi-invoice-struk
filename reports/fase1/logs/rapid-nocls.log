@@ -1,0 +1,535 @@
+Using the latest cached version of the dataset since naver-clova-ix/cord-v2 couldn't be found on the Hugging Face Hub (offline mode is enabled).
+Found the latest cached dataset configuration 'default' at /home/keynaffz/.cache/huggingface/datasets/naver-clova-ix___cord-v2/default/0.0.0/7f0115a4b758a71d6473b8d085751692da2fef98 (last modified on Wed Nov 25 14:05:55 2026).
+[rapid-raw-t0] 1/100 t=0.782s total_ok=0
+[rapid-raw-t0] 2/100 t=0.651s total_ok=1
+[rapid-raw-t0] 3/100 t=0.775s total_ok=1
+[rapid-raw-t0] 4/100 t=0.65s total_ok=1
+[rapid-raw-t0] 5/100 t=1.083s total_ok=0
+[rapid-raw-t0] 6/100 t=1.199s total_ok=1
+[rapid-raw-t0] 7/100 t=0.728s total_ok=1
+[rapid-raw-t0] 8/100 t=0.545s total_ok=1
+[rapid-raw-t0] 9/100 t=1.144s total_ok=1
+[rapid-raw-t0] 10/100 t=0.531s total_ok=None
+[rapid-raw-t0] 11/100 t=0.73s total_ok=1
+[rapid-raw-t0] 12/100 t=0.434s total_ok=1
+[rapid-raw-t0] 13/100 t=0.545s total_ok=1
+[rapid-raw-t0] 14/100 t=1.247s total_ok=1
+[rapid-raw-t0] 15/100 t=1.238s total_ok=0
+[rapid-raw-t0] 16/100 t=0.527s total_ok=1
+[rapid-raw-t0] 17/100 t=1.222s total_ok=1
+[rapid-raw-t0] 18/100 t=1.122s total_ok=1
+[rapid-raw-t0] 19/100 t=0.429s total_ok=0
+[rapid-raw-t0] 20/100 t=0.427s total_ok=0
+[rapid-raw-t0] 21/100 t=0.941s total_ok=0
+[rapid-raw-t0] 22/100 t=0.745s total_ok=0
+[rapid-raw-t0] 23/100 t=0.771s total_ok=1
+[rapid-raw-t0] 24/100 t=0.635s total_ok=1
+[rapid-raw-t0] 25/100 t=0.987s total_ok=1
+[rapid-raw-t0] 26/100 t=0.915s total_ok=1
+[rapid-raw-t0] 27/100 t=0.941s total_ok=1
+[rapid-raw-t0] 28/100 t=0.627s total_ok=1
+[rapid-raw-t0] 29/100 t=1.318s total_ok=1
+[rapid-raw-t0] 30/100 t=1.407s total_ok=0
+[rapid-raw-t0] 31/100 t=0.654s total_ok=1
+[rapid-raw-t0] 32/100 t=0.992s total_ok=1
+[rapid-raw-t0] 33/100 t=1.047s total_ok=1
+[rapid-raw-t0] 34/100 t=0.831s total_ok=1
+[rapid-raw-t0] 35/100 t=0.894s total_ok=1
+[rapid-raw-t0] 36/100 t=0.714s total_ok=0
+[rapid-raw-t0] 37/100 t=0.95s total_ok=0
+[rapid-raw-t0] 38/100 t=0.419s total_ok=None
+[rapid-raw-t0] 39/100 t=1.408s total_ok=1
+[rapid-raw-t0] 40/100 t=0.305s total_ok=None
+[rapid-raw-t0] 41/100 t=0.982s total_ok=1
+[rapid-raw-t0] 42/100 t=1.039s total_ok=0
+[rapid-raw-t0] 43/100 t=0.97s total_ok=1
+[rapid-raw-t0] 44/100 t=1.016s total_ok=1
+[rapid-raw-t0] 45/100 t=0.548s total_ok=1
+[rapid-raw-t0] 46/100 t=0.726s total_ok=1
+[rapid-raw-t0] 47/100 t=0.787s total_ok=1
+[rapid-raw-t0] 48/100 t=0.88s total_ok=1
+[rapid-raw-t0] 49/100 t=0.686s total_ok=1
+[rapid-raw-t0] 50/100 t=0.577s total_ok=0
+[rapid-raw-t0] 51/100 t=0.666s total_ok=1
+[rapid-raw-t0] 52/100 t=1.138s total_ok=1
+[rapid-raw-t0] 53/100 t=0.7s total_ok=1
+[rapid-raw-t0] 54/100 t=1.39s total_ok=1
+[rapid-raw-t0] 55/100 t=0.612s total_ok=1
+[rapid-raw-t0] 56/100 t=0.557s total_ok=0
+[rapid-raw-t0] 57/100 t=0.991s total_ok=0
+[rapid-raw-t0] 58/100 t=0.483s total_ok=None
+[rapid-raw-t0] 59/100 t=1.029s total_ok=1
+[rapid-raw-t0] 60/100 t=1.895s total_ok=1
+[rapid-raw-t0] 61/100 t=1.034s total_ok=1
+[rapid-raw-t0] 62/100 t=1.204s total_ok=1
+[rapid-raw-t0] 63/100 t=0.614s total_ok=1
+[rapid-raw-t0] 64/100 t=0.85s total_ok=1
+[rapid-raw-t0] 65/100 t=0.83s total_ok=1
+[rapid-raw-t0] 66/100 t=0.75s total_ok=0
+[rapid-raw-t0] 67/100 t=0.868s total_ok=1
+[rapid-raw-t0] 68/100 t=0.608s total_ok=1
+[rapid-raw-t0] 69/100 t=0.506s total_ok=1
+[rapid-raw-t0] 70/100 t=1.113s total_ok=1
+[rapid-raw-t0] 71/100 t=1.515s total_ok=0
+[rapid-raw-t0] 72/100 t=0.461s total_ok=0
+[rapid-raw-t0] 73/100 t=0.698s total_ok=1
+[rapid-raw-t0] 74/100 t=0.879s total_ok=1
+[rapid-raw-t0] 75/100 t=1.403s total_ok=1
+[rapid-raw-t0] 76/100 t=0.916s total_ok=1
+[rapid-raw-t0] 77/100 t=0.621s total_ok=None
+[rapid-raw-t0] 78/100 t=1.052s total_ok=1
+[rapid-raw-t0] 79/100 t=0.84s total_ok=1
+[rapid-raw-t0] 80/100 t=0.611s total_ok=0
+[rapid-raw-t0] 81/100 t=0.591s total_ok=0
+[rapid-raw-t0] 82/100 t=1.106s total_ok=1
+[rapid-raw-t0] 83/100 t=0.987s total_ok=1
+[rapid-raw-t0] 84/100 t=0.657s total_ok=1
+[rapid-raw-t0] 85/100 t=0.736s total_ok=1
+[rapid-raw-t0] 86/100 t=1.867s total_ok=0
+[rapid-raw-t0] 87/100 t=0.561s total_ok=0
+[rapid-raw-t0] 88/100 t=0.832s total_ok=0
+[rapid-raw-t0] 89/100 t=0.782s total_ok=1
+[rapid-raw-t0] 90/100 t=0.568s total_ok=0
+[rapid-raw-t0] 91/100 t=0.887s total_ok=1
+[rapid-raw-t0] 92/100 t=0.717s total_ok=0
+[rapid-raw-t0] 93/100 t=0.972s total_ok=1
+[rapid-raw-t0] 94/100 t=0.677s total_ok=1
+[rapid-raw-t0] 95/100 t=1.507s total_ok=1
+[rapid-raw-t0] 96/100 t=0.692s total_ok=0
+[rapid-raw-t0] 97/100 t=0.55s total_ok=0
+[rapid-raw-t0] 98/100 t=0.703s total_ok=1
+[rapid-raw-t0] 99/100 t=2.141s total_ok=0
+[rapid-raw-t0] 100/100 t=1.258s total_ok=1
+                              run       engine  threads              steps  images  subtotal_acc  tax_acc  total_acc  subtotal_n  tax_n  total_n  date_found  store_found  line_cer  word_recall  crop_iou  cropped_rate  median_seconds  p90_seconds  max_seconds  median_prep_seconds  median_cpu_percent  peak_rss_mb  load_seconds  warmup_seconds  rss_after_load_mb
+                   gt-text-raw-t0      gt-text        0               none     100         0.831    0.860      0.895          65     43       95         0.0         0.84       NaN          NaN       NaN           NaN             NaN          NaN          NaN                  NaN                 NaN          NaN           NaN             NaN                NaN
+              paddle-small-raw-t0 paddle-small        0               none     100         0.769    0.721      0.747          65     43       95         0.0         0.92    0.0782        0.873       NaN          0.00           0.481        1.688        2.603                0.000              1090.0       4907.0          0.98            0.38              441.7
+              paddle-small-raw-t2 paddle-small        2               none     100         0.769    0.721      0.747          65     43       95         0.0         0.92    0.0782        0.873       NaN          0.00           0.719        2.103        3.755                0.000               199.0       4859.9          0.76            0.55              441.0
+               paddle-tiny-raw-t0  paddle-tiny        0               none     100         0.738    0.651      0.726          65     43       95         0.0         0.84    0.0812        0.829       NaN          0.00           0.186        0.890        1.459                0.000              1061.0       3231.2          0.89            0.13              400.8
+               paddle-tiny-raw-t2  paddle-tiny        2               none     100         0.738    0.651      0.726          65     43       95         0.0         0.84    0.0812        0.829       NaN          0.00           0.268        1.038        1.532                0.000               199.0       3235.9          0.86            0.18              400.3
+paddle-tiny-resize+deskew+gray-t2  paddle-tiny        2 resize,deskew,gray     100         0.708    0.721      0.737          65     43       95         0.0         0.91    0.0817        0.837       NaN          0.00           0.354        0.508        1.003                0.064               199.0       1658.1          0.55            0.27              400.4
+            paddle-tiny-resize-t2  paddle-tiny        2             resize     100         0.738    0.651      0.726          65     43       95         0.0         0.88    0.0819        0.832       NaN          0.00           0.308        0.491        1.015                0.000               198.0       1640.7          0.88            0.17              400.5
+    rapid-cls-crop+deskew+gray-t0    rapid-cls        0   crop,deskew,gray     100         0.631    0.349      0.684          65     43       95         0.0         0.92    0.1288        0.722     0.819          0.97           1.193        1.863        3.075                0.023              1037.0       1144.7          0.14            1.24              354.4
+    rapid-cls-crop+deskew+gray-t2    rapid-cls        2   crop,deskew,gray     100         0.631    0.349      0.684          65     43       95         0.0         0.92    0.1288        0.722     0.819          0.97           1.316        1.884        2.736                0.036               198.0       1154.4          0.20            1.46              354.4
+                rapid-cls-crop-t0    rapid-cls        0               crop     100         0.708    0.442      0.695          65     43       95         0.0         0.92    0.1516        0.731     0.819          0.97           1.148        1.832        2.772                0.005              1056.0       1138.4          0.14            1.43              354.7
+         rapid-cls-deskew+gray-t0    rapid-cls        0        deskew,gray     100         0.692    0.419      0.737          65     43       95         0.0         0.91    0.0999        0.747       NaN          0.00           1.301        1.961        2.761                0.018              1019.0       1217.3          0.17            1.25              354.6
+         rapid-cls-deskew+gray-t1    rapid-cls        1        deskew,gray     100         0.692    0.419      0.737          65     43       95         0.0         0.91    0.0999        0.747       NaN          0.00           0.794        1.412        3.763                0.018                99.0       1258.2          0.15            0.76              353.2
+                rapid-cls-gray-t0    rapid-cls        0               gray     100         0.677    0.442      0.695          65     43       95         0.0         0.90    0.1060        0.748       NaN          0.00           1.299        1.913        2.903                0.001              1016.0       1197.8          0.22            1.77              354.7
+                 rapid-cls-raw-t0    rapid-cls        0               none     100         0.692    0.465      0.695          65     43       95         0.0         0.91    0.1075        0.741       NaN          0.00           1.314        1.942        3.312                0.000              1011.0       1174.2          0.15            1.54              354.7
+                 rapid-cls-raw-t1    rapid-cls        1               none     100         0.692    0.465      0.695          65     43       95         0.0         0.91    0.1075        0.741       NaN          0.00           0.789        1.321        2.445                0.000                99.0       1202.7          0.15            0.93              353.4
+                 rapid-cls-raw-t2    rapid-cls        2               none     100         0.692    0.465      0.695          65     43       95         0.0         0.91    0.1075        0.741       NaN          0.00           1.231        1.701        2.769                0.000               199.0       1285.4          0.19            1.44              354.2
+                 rapid-cls-raw-t4    rapid-cls        4               none     100         0.692    0.465      0.695          65     43       95         0.0         0.91    0.1075        0.741       NaN          0.00           1.490        1.993        2.623                0.000               398.0       1196.7          0.22            1.80              354.2
+                     rapid-raw-t0        rapid        0               none     100         0.754    0.488      0.716          65     43       95         0.0         0.91    0.0946        0.752       NaN          0.00           0.808        1.264        2.141                0.000              1051.0       1272.5          0.16            1.35              354.4
+Using the latest cached version of the dataset since naver-clova-ix/cord-v2 couldn't be found on the Hugging Face Hub (offline mode is enabled).
+Found the latest cached dataset configuration 'default' at /home/keynaffz/.cache/huggingface/datasets/naver-clova-ix___cord-v2/default/0.0.0/7f0115a4b758a71d6473b8d085751692da2fef98 (last modified on Wed Nov 25 14:05:55 2026).
+[rapid-raw-t1] 1/100 t=0.758s total_ok=0
+[rapid-raw-t1] 2/100 t=0.69s total_ok=1
+[rapid-raw-t1] 3/100 t=0.739s total_ok=1
+[rapid-raw-t1] 4/100 t=0.681s total_ok=1
+[rapid-raw-t1] 5/100 t=1.092s total_ok=0
+[rapid-raw-t1] 6/100 t=1.197s total_ok=1
+[rapid-raw-t1] 7/100 t=0.707s total_ok=1
+[rapid-raw-t1] 8/100 t=0.533s total_ok=1
+[rapid-raw-t1] 9/100 t=1.0s total_ok=1
+[rapid-raw-t1] 10/100 t=0.525s total_ok=None
+[rapid-raw-t1] 11/100 t=0.597s total_ok=1
+[rapid-raw-t1] 12/100 t=0.419s total_ok=1
+[rapid-raw-t1] 13/100 t=0.559s total_ok=1
+[rapid-raw-t1] 14/100 t=1.164s total_ok=1
+[rapid-raw-t1] 15/100 t=1.385s total_ok=0
+[rapid-raw-t1] 16/100 t=0.502s total_ok=1
+[rapid-raw-t1] 17/100 t=1.19s total_ok=1
+[rapid-raw-t1] 18/100 t=1.07s total_ok=1
+[rapid-raw-t1] 19/100 t=0.442s total_ok=0
+[rapid-raw-t1] 20/100 t=0.471s total_ok=0
+[rapid-raw-t1] 21/100 t=1.076s total_ok=0
+[rapid-raw-t1] 22/100 t=0.732s total_ok=0
+[rapid-raw-t1] 23/100 t=0.738s total_ok=1
+[rapid-raw-t1] 24/100 t=0.585s total_ok=1
+[rapid-raw-t1] 25/100 t=0.854s total_ok=1
+[rapid-raw-t1] 26/100 t=0.84s total_ok=1
+[rapid-raw-t1] 27/100 t=0.955s total_ok=1
+[rapid-raw-t1] 28/100 t=0.658s total_ok=1
+[rapid-raw-t1] 29/100 t=1.288s total_ok=1
+[rapid-raw-t1] 30/100 t=1.404s total_ok=0
+[rapid-raw-t1] 31/100 t=0.634s total_ok=1
+[rapid-raw-t1] 32/100 t=1.063s total_ok=1
+[rapid-raw-t1] 33/100 t=1.101s total_ok=1
+[rapid-raw-t1] 34/100 t=0.718s total_ok=1
+[rapid-raw-t1] 35/100 t=0.866s total_ok=1
+[rapid-raw-t1] 36/100 t=0.724s total_ok=0
+[rapid-raw-t1] 37/100 t=1.06s total_ok=0
+[rapid-raw-t1] 38/100 t=0.438s total_ok=None
+[rapid-raw-t1] 39/100 t=1.524s total_ok=1
+[rapid-raw-t1] 40/100 t=0.317s total_ok=None
+[rapid-raw-t1] 41/100 t=0.859s total_ok=1
+[rapid-raw-t1] 42/100 t=1.01s total_ok=0
+[rapid-raw-t1] 43/100 t=1.063s total_ok=1
+[rapid-raw-t1] 44/100 t=1.078s total_ok=1
+[rapid-raw-t1] 45/100 t=0.54s total_ok=1
+[rapid-raw-t1] 46/100 t=0.736s total_ok=1
+[rapid-raw-t1] 47/100 t=0.718s total_ok=1
+[rapid-raw-t1] 48/100 t=0.871s total_ok=1
+[rapid-raw-t1] 49/100 t=0.723s total_ok=1
+[rapid-raw-t1] 50/100 t=0.601s total_ok=0
+[rapid-raw-t1] 51/100 t=0.691s total_ok=1
+[rapid-raw-t1] 52/100 t=1.107s total_ok=1
+[rapid-raw-t1] 53/100 t=0.708s total_ok=1
+[rapid-raw-t1] 54/100 t=1.306s total_ok=1
+[rapid-raw-t1] 55/100 t=0.568s total_ok=1
+[rapid-raw-t1] 56/100 t=0.547s total_ok=0
+[rapid-raw-t1] 57/100 t=1.026s total_ok=0
+[rapid-raw-t1] 58/100 t=0.425s total_ok=None
+[rapid-raw-t1] 59/100 t=1.073s total_ok=1
+[rapid-raw-t1] 60/100 t=2.194s total_ok=1
+[rapid-raw-t1] 61/100 t=0.985s total_ok=1
+[rapid-raw-t1] 62/100 t=1.32s total_ok=1
+[rapid-raw-t1] 63/100 t=0.608s total_ok=1
+[rapid-raw-t1] 64/100 t=0.828s total_ok=1
+[rapid-raw-t1] 65/100 t=0.812s total_ok=1
+[rapid-raw-t1] 66/100 t=0.766s total_ok=0
+[rapid-raw-t1] 67/100 t=0.709s total_ok=1
+[rapid-raw-t1] 68/100 t=0.477s total_ok=1
+[rapid-raw-t1] 69/100 t=0.439s total_ok=1
+[rapid-raw-t1] 70/100 t=1.159s total_ok=1
+[rapid-raw-t1] 71/100 t=1.744s total_ok=0
+[rapid-raw-t1] 72/100 t=0.451s total_ok=0
+[rapid-raw-t1] 73/100 t=0.713s total_ok=1
+[rapid-raw-t1] 74/100 t=0.884s total_ok=1
+[rapid-raw-t1] 75/100 t=1.416s total_ok=1
+[rapid-raw-t1] 76/100 t=0.901s total_ok=1
+[rapid-raw-t1] 77/100 t=0.715s total_ok=None
+[rapid-raw-t1] 78/100 t=1.152s total_ok=1
+[rapid-raw-t1] 79/100 t=0.969s total_ok=1
+[rapid-raw-t1] 80/100 t=0.582s total_ok=0
+[rapid-raw-t1] 81/100 t=0.577s total_ok=0
+[rapid-raw-t1] 82/100 t=1.188s total_ok=1
+[rapid-raw-t1] 83/100 t=1.007s total_ok=1
+[rapid-raw-t1] 84/100 t=0.653s total_ok=1
+[rapid-raw-t1] 85/100 t=0.732s total_ok=1
+[rapid-raw-t1] 86/100 t=2.321s total_ok=0
+[rapid-raw-t1] 87/100 t=0.658s total_ok=0
+[rapid-raw-t1] 88/100 t=0.829s total_ok=0
+[rapid-raw-t1] 89/100 t=0.776s total_ok=1
+[rapid-raw-t1] 90/100 t=0.577s total_ok=0
+[rapid-raw-t1] 91/100 t=0.858s total_ok=1
+[rapid-raw-t1] 92/100 t=0.616s total_ok=0
+[rapid-raw-t1] 93/100 t=0.888s total_ok=1
+[rapid-raw-t1] 94/100 t=0.641s total_ok=1
+[rapid-raw-t1] 95/100 t=1.77s total_ok=1
+[rapid-raw-t1] 96/100 t=0.745s total_ok=0
+[rapid-raw-t1] 97/100 t=0.573s total_ok=0
+[rapid-raw-t1] 98/100 t=0.723s total_ok=1
+[rapid-raw-t1] 99/100 t=2.788s total_ok=0
+[rapid-raw-t1] 100/100 t=1.348s total_ok=1
+                              run       engine  threads              steps  images  subtotal_acc  tax_acc  total_acc  subtotal_n  tax_n  total_n  date_found  store_found  line_cer  word_recall  crop_iou  cropped_rate  median_seconds  p90_seconds  max_seconds  median_prep_seconds  median_cpu_percent  peak_rss_mb  load_seconds  warmup_seconds  rss_after_load_mb
+                   gt-text-raw-t0      gt-text        0               none     100         0.831    0.860      0.895          65     43       95         0.0         0.84       NaN          NaN       NaN           NaN             NaN          NaN          NaN                  NaN                 NaN          NaN           NaN             NaN                NaN
+              paddle-small-raw-t0 paddle-small        0               none     100         0.769    0.721      0.747          65     43       95         0.0         0.92    0.0782        0.873       NaN          0.00           0.481        1.688        2.603                0.000              1090.0       4907.0          0.98            0.38              441.7
+              paddle-small-raw-t2 paddle-small        2               none     100         0.769    0.721      0.747          65     43       95         0.0         0.92    0.0782        0.873       NaN          0.00           0.719        2.103        3.755                0.000               199.0       4859.9          0.76            0.55              441.0
+               paddle-tiny-raw-t0  paddle-tiny        0               none     100         0.738    0.651      0.726          65     43       95         0.0         0.84    0.0812        0.829       NaN          0.00           0.186        0.890        1.459                0.000              1061.0       3231.2          0.89            0.13              400.8
+               paddle-tiny-raw-t2  paddle-tiny        2               none     100         0.738    0.651      0.726          65     43       95         0.0         0.84    0.0812        0.829       NaN          0.00           0.268        1.038        1.532                0.000               199.0       3235.9          0.86            0.18              400.3
+paddle-tiny-resize+deskew+gray-t2  paddle-tiny        2 resize,deskew,gray     100         0.708    0.721      0.737          65     43       95         0.0         0.91    0.0817        0.837       NaN          0.00           0.354        0.508        1.003                0.064               199.0       1658.1          0.55            0.27              400.4
+            paddle-tiny-resize-t2  paddle-tiny        2             resize     100         0.738    0.651      0.726          65     43       95         0.0         0.88    0.0819        0.832       NaN          0.00           0.308        0.491        1.015                0.000               198.0       1640.7          0.88            0.17              400.5
+    rapid-cls-crop+deskew+gray-t0    rapid-cls        0   crop,deskew,gray     100         0.631    0.349      0.684          65     43       95         0.0         0.92    0.1288        0.722     0.819          0.97           1.193        1.863        3.075                0.023              1037.0       1144.7          0.14            1.24              354.4
+    rapid-cls-crop+deskew+gray-t2    rapid-cls        2   crop,deskew,gray     100         0.631    0.349      0.684          65     43       95         0.0         0.92    0.1288        0.722     0.819          0.97           1.316        1.884        2.736                0.036               198.0       1154.4          0.20            1.46              354.4
+                rapid-cls-crop-t0    rapid-cls        0               crop     100         0.708    0.442      0.695          65     43       95         0.0         0.92    0.1516        0.731     0.819          0.97           1.148        1.832        2.772                0.005              1056.0       1138.4          0.14            1.43              354.7
+         rapid-cls-deskew+gray-t0    rapid-cls        0        deskew,gray     100         0.692    0.419      0.737          65     43       95         0.0         0.91    0.0999        0.747       NaN          0.00           1.301        1.961        2.761                0.018              1019.0       1217.3          0.17            1.25              354.6
+         rapid-cls-deskew+gray-t1    rapid-cls        1        deskew,gray     100         0.692    0.419      0.737          65     43       95         0.0         0.91    0.0999        0.747       NaN          0.00           0.794        1.412        3.763                0.018                99.0       1258.2          0.15            0.76              353.2
+                rapid-cls-gray-t0    rapid-cls        0               gray     100         0.677    0.442      0.695          65     43       95         0.0         0.90    0.1060        0.748       NaN          0.00           1.299        1.913        2.903                0.001              1016.0       1197.8          0.22            1.77              354.7
+                 rapid-cls-raw-t0    rapid-cls        0               none     100         0.692    0.465      0.695          65     43       95         0.0         0.91    0.1075        0.741       NaN          0.00           1.314        1.942        3.312                0.000              1011.0       1174.2          0.15            1.54              354.7
+                 rapid-cls-raw-t1    rapid-cls        1               none     100         0.692    0.465      0.695          65     43       95         0.0         0.91    0.1075        0.741       NaN          0.00           0.789        1.321        2.445                0.000                99.0       1202.7          0.15            0.93              353.4
+                 rapid-cls-raw-t2    rapid-cls        2               none     100         0.692    0.465      0.695          65     43       95         0.0         0.91    0.1075        0.741       NaN          0.00           1.231        1.701        2.769                0.000               199.0       1285.4          0.19            1.44              354.2
+                 rapid-cls-raw-t4    rapid-cls        4               none     100         0.692    0.465      0.695          65     43       95         0.0         0.91    0.1075        0.741       NaN          0.00           1.490        1.993        2.623                0.000               398.0       1196.7          0.22            1.80              354.2
+                     rapid-raw-t0        rapid        0               none     100         0.754    0.488      0.716          65     43       95         0.0         0.91    0.0946        0.752       NaN          0.00           0.808        1.264        2.141                0.000              1051.0       1272.5          0.16            1.35              354.4
+                     rapid-raw-t1        rapid        1               none     100         0.754    0.488      0.716          65     43       95         0.0         0.91    0.0946        0.752       NaN          0.00           0.762        1.323        2.788                0.000                99.0       1192.3          0.15            0.89              353.2
+Using the latest cached version of the dataset since naver-clova-ix/cord-v2 couldn't be found on the Hugging Face Hub (offline mode is enabled).
+Found the latest cached dataset configuration 'default' at /home/keynaffz/.cache/huggingface/datasets/naver-clova-ix___cord-v2/default/0.0.0/7f0115a4b758a71d6473b8d085751692da2fef98 (last modified on Wed Nov 25 14:05:55 2026).
+[rapid-raw-t2] 1/100 t=0.924s total_ok=0
+[rapid-raw-t2] 2/100 t=0.809s total_ok=1
+[rapid-raw-t2] 3/100 t=0.918s total_ok=1
+[rapid-raw-t2] 4/100 t=0.834s total_ok=1
+[rapid-raw-t2] 5/100 t=1.135s total_ok=0
+[rapid-raw-t2] 6/100 t=1.283s total_ok=1
+[rapid-raw-t2] 7/100 t=0.85s total_ok=1
+[rapid-raw-t2] 8/100 t=0.605s total_ok=1
+[rapid-raw-t2] 9/100 t=1.127s total_ok=1
+[rapid-raw-t2] 10/100 t=0.605s total_ok=None
+[rapid-raw-t2] 11/100 t=0.778s total_ok=1
+[rapid-raw-t2] 12/100 t=0.452s total_ok=1
+[rapid-raw-t2] 13/100 t=0.785s total_ok=1
+[rapid-raw-t2] 14/100 t=1.254s total_ok=1
+[rapid-raw-t2] 15/100 t=1.521s total_ok=0
+[rapid-raw-t2] 16/100 t=0.604s total_ok=1
+[rapid-raw-t2] 17/100 t=1.289s total_ok=1
+[rapid-raw-t2] 18/100 t=1.108s total_ok=1
+[rapid-raw-t2] 19/100 t=0.674s total_ok=0
+[rapid-raw-t2] 20/100 t=0.588s total_ok=0
+[rapid-raw-t2] 21/100 t=1.143s total_ok=0
+[rapid-raw-t2] 22/100 t=0.807s total_ok=0
+[rapid-raw-t2] 23/100 t=0.951s total_ok=1
+[rapid-raw-t2] 24/100 t=0.786s total_ok=1
+[rapid-raw-t2] 25/100 t=1.013s total_ok=1
+[rapid-raw-t2] 26/100 t=1.05s total_ok=1
+[rapid-raw-t2] 27/100 t=1.14s total_ok=1
+[rapid-raw-t2] 28/100 t=0.74s total_ok=1
+[rapid-raw-t2] 29/100 t=1.374s total_ok=1
+[rapid-raw-t2] 30/100 t=1.481s total_ok=0
+[rapid-raw-t2] 31/100 t=0.724s total_ok=1
+[rapid-raw-t2] 32/100 t=1.063s total_ok=1
+[rapid-raw-t2] 33/100 t=1.096s total_ok=1
+[rapid-raw-t2] 34/100 t=0.916s total_ok=1
+[rapid-raw-t2] 35/100 t=0.924s total_ok=1
+[rapid-raw-t2] 36/100 t=0.806s total_ok=0
+[rapid-raw-t2] 37/100 t=1.054s total_ok=0
+[rapid-raw-t2] 38/100 t=0.582s total_ok=None
+[rapid-raw-t2] 39/100 t=1.394s total_ok=1
+[rapid-raw-t2] 40/100 t=0.353s total_ok=None
+[rapid-raw-t2] 41/100 t=1.035s total_ok=1
+[rapid-raw-t2] 42/100 t=1.078s total_ok=0
+[rapid-raw-t2] 43/100 t=1.107s total_ok=1
+[rapid-raw-t2] 44/100 t=1.105s total_ok=1
+[rapid-raw-t2] 45/100 t=0.574s total_ok=1
+[rapid-raw-t2] 46/100 t=0.96s total_ok=1
+[rapid-raw-t2] 47/100 t=0.795s total_ok=1
+[rapid-raw-t2] 48/100 t=0.924s total_ok=1
+[rapid-raw-t2] 49/100 t=0.866s total_ok=1
+[rapid-raw-t2] 50/100 t=0.685s total_ok=0
+[rapid-raw-t2] 51/100 t=0.915s total_ok=1
+[rapid-raw-t2] 52/100 t=1.17s total_ok=1
+[rapid-raw-t2] 53/100 t=0.941s total_ok=1
+[rapid-raw-t2] 54/100 t=1.393s total_ok=1
+[rapid-raw-t2] 55/100 t=0.628s total_ok=1
+[rapid-raw-t2] 56/100 t=0.758s total_ok=0
+[rapid-raw-t2] 57/100 t=1.227s total_ok=0
+[rapid-raw-t2] 58/100 t=0.547s total_ok=None
+[rapid-raw-t2] 59/100 t=1.139s total_ok=1
+[rapid-raw-t2] 60/100 t=2.069s total_ok=1
+[rapid-raw-t2] 61/100 t=1.217s total_ok=1
+[rapid-raw-t2] 62/100 t=1.209s total_ok=1
+[rapid-raw-t2] 63/100 t=0.662s total_ok=1
+[rapid-raw-t2] 64/100 t=1.095s total_ok=1
+[rapid-raw-t2] 65/100 t=0.853s total_ok=1
+[rapid-raw-t2] 66/100 t=0.87s total_ok=0
+[rapid-raw-t2] 67/100 t=0.921s total_ok=1
+[rapid-raw-t2] 68/100 t=0.6s total_ok=1
+[rapid-raw-t2] 69/100 t=0.532s total_ok=1
+[rapid-raw-t2] 70/100 t=1.191s total_ok=1
+[rapid-raw-t2] 71/100 t=1.676s total_ok=0
+[rapid-raw-t2] 72/100 t=0.53s total_ok=0
+[rapid-raw-t2] 73/100 t=0.898s total_ok=1
+[rapid-raw-t2] 74/100 t=1.192s total_ok=1
+[rapid-raw-t2] 75/100 t=1.608s total_ok=1
+[rapid-raw-t2] 76/100 t=1.093s total_ok=1
+[rapid-raw-t2] 77/100 t=0.792s total_ok=None
+[rapid-raw-t2] 78/100 t=1.117s total_ok=1
+[rapid-raw-t2] 79/100 t=0.982s total_ok=1
+[rapid-raw-t2] 80/100 t=0.774s total_ok=0
+[rapid-raw-t2] 81/100 t=0.645s total_ok=0
+[rapid-raw-t2] 82/100 t=1.324s total_ok=1
+[rapid-raw-t2] 83/100 t=1.211s total_ok=1
+[rapid-raw-t2] 84/100 t=0.736s total_ok=1
+[rapid-raw-t2] 85/100 t=0.923s total_ok=1
+[rapid-raw-t2] 86/100 t=2.086s total_ok=0
+[rapid-raw-t2] 87/100 t=0.812s total_ok=0
+[rapid-raw-t2] 88/100 t=1.078s total_ok=0
+[rapid-raw-t2] 89/100 t=0.895s total_ok=1
+[rapid-raw-t2] 90/100 t=0.723s total_ok=0
+[rapid-raw-t2] 91/100 t=1.159s total_ok=1
+[rapid-raw-t2] 92/100 t=0.803s total_ok=0
+[rapid-raw-t2] 93/100 t=1.154s total_ok=1
+[rapid-raw-t2] 94/100 t=0.946s total_ok=1
+[rapid-raw-t2] 95/100 t=1.57s total_ok=1
+[rapid-raw-t2] 96/100 t=0.894s total_ok=0
+[rapid-raw-t2] 97/100 t=0.875s total_ok=0
+[rapid-raw-t2] 98/100 t=0.924s total_ok=1
+[rapid-raw-t2] 99/100 t=2.529s total_ok=0
+[rapid-raw-t2] 100/100 t=1.41s total_ok=1
+                              run       engine  threads              steps  images  subtotal_acc  tax_acc  total_acc  subtotal_n  tax_n  total_n  date_found  store_found  line_cer  word_recall  crop_iou  cropped_rate  median_seconds  p90_seconds  max_seconds  median_prep_seconds  median_cpu_percent  peak_rss_mb  load_seconds  warmup_seconds  rss_after_load_mb
+                   gt-text-raw-t0      gt-text        0               none     100         0.831    0.860      0.895          65     43       95         0.0         0.84       NaN          NaN       NaN           NaN             NaN          NaN          NaN                  NaN                 NaN          NaN           NaN             NaN                NaN
+              paddle-small-raw-t0 paddle-small        0               none     100         0.769    0.721      0.747          65     43       95         0.0         0.92    0.0782        0.873       NaN          0.00           0.481        1.688        2.603                0.000              1090.0       4907.0          0.98            0.38              441.7
+              paddle-small-raw-t2 paddle-small        2               none     100         0.769    0.721      0.747          65     43       95         0.0         0.92    0.0782        0.873       NaN          0.00           0.719        2.103        3.755                0.000               199.0       4859.9          0.76            0.55              441.0
+               paddle-tiny-raw-t0  paddle-tiny        0               none     100         0.738    0.651      0.726          65     43       95         0.0         0.84    0.0812        0.829       NaN          0.00           0.186        0.890        1.459                0.000              1061.0       3231.2          0.89            0.13              400.8
+               paddle-tiny-raw-t2  paddle-tiny        2               none     100         0.738    0.651      0.726          65     43       95         0.0         0.84    0.0812        0.829       NaN          0.00           0.268        1.038        1.532                0.000               199.0       3235.9          0.86            0.18              400.3
+paddle-tiny-resize+deskew+gray-t2  paddle-tiny        2 resize,deskew,gray     100         0.708    0.721      0.737          65     43       95         0.0         0.91    0.0817        0.837       NaN          0.00           0.354        0.508        1.003                0.064               199.0       1658.1          0.55            0.27              400.4
+            paddle-tiny-resize-t2  paddle-tiny        2             resize     100         0.738    0.651      0.726          65     43       95         0.0         0.88    0.0819        0.832       NaN          0.00           0.308        0.491        1.015                0.000               198.0       1640.7          0.88            0.17              400.5
+    rapid-cls-crop+deskew+gray-t0    rapid-cls        0   crop,deskew,gray     100         0.631    0.349      0.684          65     43       95         0.0         0.92    0.1288        0.722     0.819          0.97           1.193        1.863        3.075                0.023              1037.0       1144.7          0.14            1.24              354.4
+    rapid-cls-crop+deskew+gray-t2    rapid-cls        2   crop,deskew,gray     100         0.631    0.349      0.684          65     43       95         0.0         0.92    0.1288        0.722     0.819          0.97           1.316        1.884        2.736                0.036               198.0       1154.4          0.20            1.46              354.4
+                rapid-cls-crop-t0    rapid-cls        0               crop     100         0.708    0.442      0.695          65     43       95         0.0         0.92    0.1516        0.731     0.819          0.97           1.148        1.832        2.772                0.005              1056.0       1138.4          0.14            1.43              354.7
+         rapid-cls-deskew+gray-t0    rapid-cls        0        deskew,gray     100         0.692    0.419      0.737          65     43       95         0.0         0.91    0.0999        0.747       NaN          0.00           1.301        1.961        2.761                0.018              1019.0       1217.3          0.17            1.25              354.6
+         rapid-cls-deskew+gray-t1    rapid-cls        1        deskew,gray     100         0.692    0.419      0.737          65     43       95         0.0         0.91    0.0999        0.747       NaN          0.00           0.794        1.412        3.763                0.018                99.0       1258.2          0.15            0.76              353.2
+                rapid-cls-gray-t0    rapid-cls        0               gray     100         0.677    0.442      0.695          65     43       95         0.0         0.90    0.1060        0.748       NaN          0.00           1.299        1.913        2.903                0.001              1016.0       1197.8          0.22            1.77              354.7
+                 rapid-cls-raw-t0    rapid-cls        0               none     100         0.692    0.465      0.695          65     43       95         0.0         0.91    0.1075        0.741       NaN          0.00           1.314        1.942        3.312                0.000              1011.0       1174.2          0.15            1.54              354.7
+                 rapid-cls-raw-t1    rapid-cls        1               none     100         0.692    0.465      0.695          65     43       95         0.0         0.91    0.1075        0.741       NaN          0.00           0.789        1.321        2.445                0.000                99.0       1202.7          0.15            0.93              353.4
+                 rapid-cls-raw-t2    rapid-cls        2               none     100         0.692    0.465      0.695          65     43       95         0.0         0.91    0.1075        0.741       NaN          0.00           1.231        1.701        2.769                0.000               199.0       1285.4          0.19            1.44              354.2
+                 rapid-cls-raw-t4    rapid-cls        4               none     100         0.692    0.465      0.695          65     43       95         0.0         0.91    0.1075        0.741       NaN          0.00           1.490        1.993        2.623                0.000               398.0       1196.7          0.22            1.80              354.2
+                     rapid-raw-t0        rapid        0               none     100         0.754    0.488      0.716          65     43       95         0.0         0.91    0.0946        0.752       NaN          0.00           0.808        1.264        2.141                0.000              1051.0       1272.5          0.16            1.35              354.4
+                     rapid-raw-t1        rapid        1               none     100         0.754    0.488      0.716          65     43       95         0.0         0.91    0.0946        0.752       NaN          0.00           0.762        1.323        2.788                0.000                99.0       1192.3          0.15            0.89              353.2
+                     rapid-raw-t2        rapid        2               none     100         0.754    0.488      0.716          65     43       95         0.0         0.91    0.0946        0.752       NaN          0.00           0.924        1.393        2.529                0.000               199.0       1257.0          0.20            1.27              354.1
+Using the latest cached version of the dataset since naver-clova-ix/cord-v2 couldn't be found on the Hugging Face Hub (offline mode is enabled).
+Found the latest cached dataset configuration 'default' at /home/keynaffz/.cache/huggingface/datasets/naver-clova-ix___cord-v2/default/0.0.0/7f0115a4b758a71d6473b8d085751692da2fef98 (last modified on Wed Nov 25 14:05:55 2026).
+[rapid-deskew+gray-t1] 1/100 t=0.66s total_ok=1
+[rapid-deskew+gray-t1] 2/100 t=0.689s total_ok=1
+[rapid-deskew+gray-t1] 3/100 t=0.734s total_ok=1
+[rapid-deskew+gray-t1] 4/100 t=0.698s total_ok=1
+[rapid-deskew+gray-t1] 5/100 t=1.067s total_ok=0
+[rapid-deskew+gray-t1] 6/100 t=1.185s total_ok=1
+[rapid-deskew+gray-t1] 7/100 t=0.732s total_ok=1
+[rapid-deskew+gray-t1] 8/100 t=0.537s total_ok=1
+[rapid-deskew+gray-t1] 9/100 t=0.96s total_ok=1
+[rapid-deskew+gray-t1] 10/100 t=0.534s total_ok=None
+[rapid-deskew+gray-t1] 11/100 t=0.6s total_ok=1
+[rapid-deskew+gray-t1] 12/100 t=0.432s total_ok=1
+[rapid-deskew+gray-t1] 13/100 t=0.598s total_ok=1
+[rapid-deskew+gray-t1] 14/100 t=1.046s total_ok=1
+[rapid-deskew+gray-t1] 15/100 t=1.525s total_ok=1
+[rapid-deskew+gray-t1] 16/100 t=0.567s total_ok=1
+[rapid-deskew+gray-t1] 17/100 t=1.271s total_ok=1
+[rapid-deskew+gray-t1] 18/100 t=1.078s total_ok=1
+[rapid-deskew+gray-t1] 19/100 t=0.465s total_ok=0
+[rapid-deskew+gray-t1] 20/100 t=0.468s total_ok=0
+[rapid-deskew+gray-t1] 21/100 t=0.914s total_ok=0
+[rapid-deskew+gray-t1] 22/100 t=0.756s total_ok=0
+[rapid-deskew+gray-t1] 23/100 t=0.717s total_ok=1
+[rapid-deskew+gray-t1] 24/100 t=0.589s total_ok=1
+[rapid-deskew+gray-t1] 25/100 t=0.857s total_ok=1
+[rapid-deskew+gray-t1] 26/100 t=0.912s total_ok=1
+[rapid-deskew+gray-t1] 27/100 t=1.028s total_ok=1
+[rapid-deskew+gray-t1] 28/100 t=0.716s total_ok=1
+[rapid-deskew+gray-t1] 29/100 t=1.291s total_ok=1
+[rapid-deskew+gray-t1] 30/100 t=1.432s total_ok=0
+[rapid-deskew+gray-t1] 31/100 t=0.623s total_ok=1
+[rapid-deskew+gray-t1] 32/100 t=1.086s total_ok=1
+[rapid-deskew+gray-t1] 33/100 t=1.062s total_ok=0
+[rapid-deskew+gray-t1] 34/100 t=0.786s total_ok=1
+[rapid-deskew+gray-t1] 35/100 t=0.837s total_ok=1
+[rapid-deskew+gray-t1] 36/100 t=0.722s total_ok=0
+[rapid-deskew+gray-t1] 37/100 t=1.095s total_ok=0
+[rapid-deskew+gray-t1] 38/100 t=0.446s total_ok=None
+[rapid-deskew+gray-t1] 39/100 t=1.564s total_ok=1
+[rapid-deskew+gray-t1] 40/100 t=0.329s total_ok=None
+[rapid-deskew+gray-t1] 41/100 t=0.948s total_ok=1
+[rapid-deskew+gray-t1] 42/100 t=1.017s total_ok=1
+[rapid-deskew+gray-t1] 43/100 t=1.043s total_ok=1
+[rapid-deskew+gray-t1] 44/100 t=1.073s total_ok=1
+[rapid-deskew+gray-t1] 45/100 t=0.536s total_ok=1
+[rapid-deskew+gray-t1] 46/100 t=0.697s total_ok=1
+[rapid-deskew+gray-t1] 47/100 t=0.699s total_ok=1
+[rapid-deskew+gray-t1] 48/100 t=1.0s total_ok=1
+[rapid-deskew+gray-t1] 49/100 t=0.722s total_ok=1
+[rapid-deskew+gray-t1] 50/100 t=0.624s total_ok=0
+[rapid-deskew+gray-t1] 51/100 t=0.642s total_ok=1
+[rapid-deskew+gray-t1] 52/100 t=1.167s total_ok=1
+[rapid-deskew+gray-t1] 53/100 t=0.73s total_ok=1
+[rapid-deskew+gray-t1] 54/100 t=1.458s total_ok=0
+[rapid-deskew+gray-t1] 55/100 t=0.616s total_ok=1
+[rapid-deskew+gray-t1] 56/100 t=0.636s total_ok=0
+[rapid-deskew+gray-t1] 57/100 t=1.234s total_ok=0
+[rapid-deskew+gray-t1] 58/100 t=0.49s total_ok=None
+[rapid-deskew+gray-t1] 59/100 t=1.216s total_ok=1
+[rapid-deskew+gray-t1] 60/100 t=2.25s total_ok=1
+[rapid-deskew+gray-t1] 61/100 t=1.165s total_ok=1
+[rapid-deskew+gray-t1] 62/100 t=1.451s total_ok=1
+[rapid-deskew+gray-t1] 63/100 t=0.695s total_ok=1
+[rapid-deskew+gray-t1] 64/100 t=0.903s total_ok=1
+[rapid-deskew+gray-t1] 65/100 t=0.825s total_ok=1
+[rapid-deskew+gray-t1] 66/100 t=0.785s total_ok=0
+[rapid-deskew+gray-t1] 67/100 t=0.738s total_ok=1
+[rapid-deskew+gray-t1] 68/100 t=0.511s total_ok=1
+[rapid-deskew+gray-t1] 69/100 t=0.46s total_ok=0
+[rapid-deskew+gray-t1] 70/100 t=1.194s total_ok=1
+[rapid-deskew+gray-t1] 71/100 t=2.03s total_ok=0
+[rapid-deskew+gray-t1] 72/100 t=0.561s total_ok=0
+[rapid-deskew+gray-t1] 73/100 t=0.739s total_ok=1
+[rapid-deskew+gray-t1] 74/100 t=0.943s total_ok=1
+[rapid-deskew+gray-t1] 75/100 t=1.564s total_ok=1
+[rapid-deskew+gray-t1] 76/100 t=1.007s total_ok=1
+[rapid-deskew+gray-t1] 77/100 t=0.771s total_ok=None
+[rapid-deskew+gray-t1] 78/100 t=1.231s total_ok=1
+[rapid-deskew+gray-t1] 79/100 t=1.286s total_ok=1
+[rapid-deskew+gray-t1] 80/100 t=0.684s total_ok=0
+[rapid-deskew+gray-t1] 81/100 t=0.601s total_ok=1
+[rapid-deskew+gray-t1] 82/100 t=1.229s total_ok=1
+[rapid-deskew+gray-t1] 83/100 t=1.182s total_ok=1
+[rapid-deskew+gray-t1] 84/100 t=0.668s total_ok=1
+[rapid-deskew+gray-t1] 85/100 t=0.787s total_ok=1
+[rapid-deskew+gray-t1] 86/100 t=2.422s total_ok=1
+[rapid-deskew+gray-t1] 87/100 t=0.717s total_ok=0
+[rapid-deskew+gray-t1] 88/100 t=1.163s total_ok=1
+[rapid-deskew+gray-t1] 89/100 t=1.089s total_ok=1
+[rapid-deskew+gray-t1] 90/100 t=0.654s total_ok=0
+[rapid-deskew+gray-t1] 91/100 t=0.9s total_ok=1
+[rapid-deskew+gray-t1] 92/100 t=0.595s total_ok=0
+[rapid-deskew+gray-t1] 93/100 t=0.726s total_ok=1
+[rapid-deskew+gray-t1] 94/100 t=0.748s total_ok=0
+[rapid-deskew+gray-t1] 95/100 t=2.305s total_ok=1
+[rapid-deskew+gray-t1] 96/100 t=0.824s total_ok=1
+[rapid-deskew+gray-t1] 97/100 t=0.625s total_ok=0
+[rapid-deskew+gray-t1] 98/100 t=0.765s total_ok=1
+[rapid-deskew+gray-t1] 99/100 t=2.649s total_ok=1
+[rapid-deskew+gray-t1] 100/100 t=1.435s total_ok=1
+                              run       engine  threads              steps  images  subtotal_acc  tax_acc  total_acc  subtotal_n  tax_n  total_n  date_found  store_found  line_cer  word_recall  crop_iou  cropped_rate  median_seconds  p90_seconds  max_seconds  median_prep_seconds  median_cpu_percent  peak_rss_mb  load_seconds  warmup_seconds  rss_after_load_mb
+                   gt-text-raw-t0      gt-text        0               none     100         0.831    0.860      0.895          65     43       95         0.0         0.84       NaN          NaN       NaN           NaN             NaN          NaN          NaN                  NaN                 NaN          NaN           NaN             NaN                NaN
+              paddle-small-raw-t0 paddle-small        0               none     100         0.769    0.721      0.747          65     43       95         0.0         0.92    0.0782        0.873       NaN          0.00           0.481        1.688        2.603                0.000              1090.0       4907.0          0.98            0.38              441.7
+              paddle-small-raw-t2 paddle-small        2               none     100         0.769    0.721      0.747          65     43       95         0.0         0.92    0.0782        0.873       NaN          0.00           0.719        2.103        3.755                0.000               199.0       4859.9          0.76            0.55              441.0
+               paddle-tiny-raw-t0  paddle-tiny        0               none     100         0.738    0.651      0.726          65     43       95         0.0         0.84    0.0812        0.829       NaN          0.00           0.186        0.890        1.459                0.000              1061.0       3231.2          0.89            0.13              400.8
+               paddle-tiny-raw-t2  paddle-tiny        2               none     100         0.738    0.651      0.726          65     43       95         0.0         0.84    0.0812        0.829       NaN          0.00           0.268        1.038        1.532                0.000               199.0       3235.9          0.86            0.18              400.3
+paddle-tiny-resize+deskew+gray-t2  paddle-tiny        2 resize,deskew,gray     100         0.708    0.721      0.737          65     43       95         0.0         0.91    0.0817        0.837       NaN          0.00           0.354        0.508        1.003                0.064               199.0       1658.1          0.55            0.27              400.4
+            paddle-tiny-resize-t2  paddle-tiny        2             resize     100         0.738    0.651      0.726          65     43       95         0.0         0.88    0.0819        0.832       NaN          0.00           0.308        0.491        1.015                0.000               198.0       1640.7          0.88            0.17              400.5
+    rapid-cls-crop+deskew+gray-t0    rapid-cls        0   crop,deskew,gray     100         0.631    0.349      0.684          65     43       95         0.0         0.92    0.1288        0.722     0.819          0.97           1.193        1.863        3.075                0.023              1037.0       1144.7          0.14            1.24              354.4
+    rapid-cls-crop+deskew+gray-t2    rapid-cls        2   crop,deskew,gray     100         0.631    0.349      0.684          65     43       95         0.0         0.92    0.1288        0.722     0.819          0.97           1.316        1.884        2.736                0.036               198.0       1154.4          0.20            1.46              354.4
+                rapid-cls-crop-t0    rapid-cls        0               crop     100         0.708    0.442      0.695          65     43       95         0.0         0.92    0.1516        0.731     0.819          0.97           1.148        1.832        2.772                0.005              1056.0       1138.4          0.14            1.43              354.7
+         rapid-cls-deskew+gray-t0    rapid-cls        0        deskew,gray     100         0.692    0.419      0.737          65     43       95         0.0         0.91    0.0999        0.747       NaN          0.00           1.301        1.961        2.761                0.018              1019.0       1217.3          0.17            1.25              354.6
+         rapid-cls-deskew+gray-t1    rapid-cls        1        deskew,gray     100         0.692    0.419      0.737          65     43       95         0.0         0.91    0.0999        0.747       NaN          0.00           0.794        1.412        3.763                0.018                99.0       1258.2          0.15            0.76              353.2
+                rapid-cls-gray-t0    rapid-cls        0               gray     100         0.677    0.442      0.695          65     43       95         0.0         0.90    0.1060        0.748       NaN          0.00           1.299        1.913        2.903                0.001              1016.0       1197.8          0.22            1.77              354.7
+                 rapid-cls-raw-t0    rapid-cls        0               none     100         0.692    0.465      0.695          65     43       95         0.0         0.91    0.1075        0.741       NaN          0.00           1.314        1.942        3.312                0.000              1011.0       1174.2          0.15            1.54              354.7
+                 rapid-cls-raw-t1    rapid-cls        1               none     100         0.692    0.465      0.695          65     43       95         0.0         0.91    0.1075        0.741       NaN          0.00           0.789        1.321        2.445                0.000                99.0       1202.7          0.15            0.93              353.4
+                 rapid-cls-raw-t2    rapid-cls        2               none     100         0.692    0.465      0.695          65     43       95         0.0         0.91    0.1075        0.741       NaN          0.00           1.231        1.701        2.769                0.000               199.0       1285.4          0.19            1.44              354.2
+                 rapid-cls-raw-t4    rapid-cls        4               none     100         0.692    0.465      0.695          65     43       95         0.0         0.91    0.1075        0.741       NaN          0.00           1.490        1.993        2.623                0.000               398.0       1196.7          0.22            1.80              354.2
+             rapid-deskew+gray-t1        rapid        1        deskew,gray     100         0.738    0.442      0.758          65     43       95         0.0         0.91    0.0881        0.759       NaN          0.00           0.786        1.437        2.649                0.017                99.0       1299.8          0.13            0.70              354.0
+                     rapid-raw-t0        rapid        0               none     100         0.754    0.488      0.716          65     43       95         0.0         0.91    0.0946        0.752       NaN          0.00           0.808        1.264        2.141                0.000              1051.0       1272.5          0.16            1.35              354.4
+                     rapid-raw-t1        rapid        1               none     100         0.754    0.488      0.716          65     43       95         0.0         0.91    0.0946        0.752       NaN          0.00           0.762        1.323        2.788                0.000                99.0       1192.3          0.15            0.89              353.2
+                     rapid-raw-t2        rapid        2               none     100         0.754    0.488      0.716          65     43       95         0.0         0.91    0.0946        0.752       NaN          0.00           0.924        1.393        2.529                0.000               199.0       1257.0          0.20            1.27              354.1
+Using the latest cached version of the dataset since naver-clova-ix/cord-v2 couldn't be found on the Hugging Face Hub (offline mode is enabled).
+Found the latest cached dataset configuration 'default' at /home/keynaffz/.cache/huggingface/datasets/naver-clova-ix___cord-v2/default/0.0.0/7f0115a4b758a71d6473b8d085751692da2fef98 (last modified on Wed Nov 25 14:05:55 2026).
+[rapid-deskew+gray-t2] 1/100 t=0.804s total_ok=1
+[rapid-deskew+gray-t2] 2/100 t=0.964s total_ok=1
+[rapid-deskew+gray-t2] 3/100 t=0.966s total_ok=1
+[rapid-deskew+gray-t2] 4/100 t=0.803s total_ok=1
+[rapid-deskew+gray-t2] 5/100 t=1.315s total_ok=0
+[rapid-deskew+gray-t2] 6/100 t=1.189s total_ok=1
+[rapid-deskew+gray-t2] 7/100 t=0.962s total_ok=1
+[rapid-deskew+gray-t2] 8/100 t=0.733s total_ok=1
+[rapid-deskew+gray-t2] 9/100 t=1.195s total_ok=1
+[rapid-deskew+gray-t2] 10/100 t=0.64s total_ok=None
+[rapid-deskew+gray-t2] 11/100 t=0.734s total_ok=1
+[rapid-deskew+gray-t2] 12/100 t=0.633s total_ok=1
+[rapid-deskew+gray-t2] 13/100 t=0.707s total_ok=1
+[rapid-deskew+gray-t2] 14/100 t=1.17s total_ok=1
+[rapid-deskew+gray-t2] 15/100 t=1.532s total_ok=1
+[rapid-deskew+gray-t2] 16/100 t=0.735s total_ok=1
+[rapid-deskew+gray-t2] 17/100 t=1.479s total_ok=1
+[rapid-deskew+gray-t2] 18/100 t=1.358s total_ok=1
+[rapid-deskew+gray-t2] 19/100 t=0.659s total_ok=0
+[rapid-deskew+gray-t2] 20/100 t=0.801s total_ok=0
+[rapid-deskew+gray-t2] 21/100 t=1.003s total_ok=0
+[rapid-deskew+gray-t2] 22/100 t=0.85s total_ok=0
+[rapid-deskew+gray-t2] 23/100 t=0.955s total_ok=1
+[rapid-deskew+gray-t2] 24/100 t=0.667s total_ok=1
+[rapid-deskew+gray-t2] 25/100 t=1.159s total_ok=1
+[rapid-deskew+gray-t2] 26/100 t=1.14s total_ok=1
+[rapid-deskew+gray-t2] 27/100 t=1.35s total_ok=1
+[rapid-deskew+gray-t2] 28/100 t=0.913s total_ok=1
+[rapid-deskew+gray-t2] 29/100 t=1.625s total_ok=1
+[rapid-deskew+gray-t2] 30/100 t=1.534s total_ok=0
+[rapid-deskew+gray-t2] 31/100 t=0.966s total_ok=1
+[rapid-deskew+gray-t2] 32/100 t=1.171s total_ok=1
+[rapid-deskew+gray-t2] 33/100 t=1.338s total_ok=0
+[rapid-deskew+gray-t2] 34/100 t=1.003s total_ok=1
+[rapid-deskew+gray-t2] 35/100 t=1.138s total_ok=1
+[rapid-deskew+gray-t2] 36/100 t=0.983s total_ok=0
+[rapid-deskew+gray-t2] 37/100 t=1.267s total_ok=0
+[rapid-deskew+gray-t2] 38/100 t=0.685s total_ok=None
+[rapid-deskew+gray-t2] 39/100 t=1.69s total_ok=1
+[rapid-deskew+gray-t2] 40/100 t=0.379s total_ok=None
+[rapid-deskew+gray-t2] 41/100 t=1.163s total_ok=1
+[rapid-deskew+gray-t2] 42/100 t=1.3s total_ok=1
+[rapid-deskew+gray-t2] 43/100 t=1.226s total_ok=1

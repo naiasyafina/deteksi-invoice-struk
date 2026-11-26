@@ -1,0 +1,9 @@
+{
+  "engine": "rapid-cls",
+  "threads": 1,
+  "steps": "deskew,gray",
+  "rss_before_load_mb": 281.0,
+  "load_seconds": 0.15,
+  "rss_after_load_mb": 353.2,
+  "warmup_seconds": 0.76
+}

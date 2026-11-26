@@ -1,0 +1,9 @@
+{
+  "engine": "rapid",
+  "threads": 2,
+  "steps": "none",
+  "rss_before_load_mb": 281.2,
+  "load_seconds": 0.2,
+  "rss_after_load_mb": 354.1,
+  "warmup_seconds": 1.27
+}

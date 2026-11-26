@@ -1,4 +1,28 @@
+from collections.abc import Callable
+
+import numpy as np
+
 Box = tuple[float, float, float, float]
+OcrResult = tuple[list[str], list[Box]]
+
+
+def rapid_ocr(threads: int = 1, use_cls: bool = False) -> Callable[[np.ndarray], OcrResult]:
+    from rapidocr_onnxruntime import RapidOCR
+
+    options = {"use_cls": use_cls}
+    if threads:
+        options.update(intra_op_num_threads=threads, inter_op_num_threads=1)
+    engine = RapidOCR(**options)
+
+    def read(img: np.ndarray) -> OcrResult:
+        result, _ = engine(img)
+        if not result:
+            return [], []
+        texts = [text for _, text, _ in result]
+        boxes = [(min(x for x, _ in pts), min(y for _, y in pts), max(x for x, _ in pts), max(y for _, y in pts)) for pts, _, _ in result]
+        return texts, boxes
+
+    return read
 
 
 def group_lines(texts: list[str], boxes: list[Box]) -> list[str]:

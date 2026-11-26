@@ -1,0 +1,9 @@
+{
+  "engine": "paddle-tiny",
+  "threads": 2,
+  "steps": "resize,deskew,gray",
+  "rss_before_load_mb": 287.3,
+  "load_seconds": 0.55,
+  "rss_after_load_mb": 400.4,
+  "warmup_seconds": 0.27
+}
